@@ -24,6 +24,7 @@ vector_stores/
 # Environment
 .env
 .env.local
+.env.example
 
 # IDE
 .vscode/
